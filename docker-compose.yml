@@ -13,4 +13,3 @@ services:
       - pgdata:/var/lib/postgresql/data
 volumes:
   pgdata:
-#    driver: local
